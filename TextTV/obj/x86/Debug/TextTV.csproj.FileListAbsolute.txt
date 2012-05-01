@@ -1,0 +1,7 @@
+\\psf\Home\code\csharp\TextTV\TextTV\bin\Debug\TextTV.exe
+\\psf\Home\code\csharp\TextTV\TextTV\bin\Debug\TextTV.pdb
+\\psf\Home\code\csharp\TextTV\TextTV\bin\Debug\TextTV.dll
+\\psf\Home\code\csharp\TextTV\TextTV\bin\Debug\TextTV.xml
+\\psf\Home\code\csharp\TextTV\TextTV\obj\x86\Debug\ResolveAssemblyReference.cache
+\\psf\Home\code\csharp\TextTV\TextTV\obj\x86\Debug\TextTV.exe
+\\psf\Home\code\csharp\TextTV\TextTV\obj\x86\Debug\TextTV.pdb
